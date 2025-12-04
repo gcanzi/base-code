@@ -9,7 +9,7 @@ Var
 Inicio
 
    escreva("Quantos elementos vai ter o vetor?" )
-   leia(n) 
+   leia(n)
    
    para i de 0 ate n-1 faca
       escreva("Digite um numero: ")

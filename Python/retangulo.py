@@ -1,3 +1,8 @@
+'''
+Fazer um programar para ler a base e altura de um retangulo. Em seguida, mostrar o valor da área, perimetro e diagonal deste 
+retangulo, com quatro casa decimais.
+'''
+
 import math
 
 base = float(input("Base do retangulo: "))

@@ -1,7 +1,7 @@
 '''
 Faça um programa que leia N numeros reais e armazene-os em um vetor. Em seguida:
 - Imprimir todos os elementos do vetor
-- Mostra na tela a soma e a média dos elementos do vetor
+- Mostra na tela a soma e a média dos elementos do vetor 
 '''
 qtd = int(input("Quantos numeros voce vai digitar? "))
 
